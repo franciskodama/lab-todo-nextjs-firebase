@@ -2,20 +2,21 @@
 
 ## WELCOME TO MY LAB SPACE
 
+<hr />
 </br>
-Today's project 📖
+Today's project:
 
 ## Full-stack CRUD app with Nextjs + Firebase (Auth & Firestore) + TailwindCSS 🧪
 
 The idea here it's to learn Next.js + Firebase by building a full-stack CRUD app.
 
+</br>
 <hr />
+</br>
 
 ## Why?
 
 The process of learning, practicing, practicing again, and testing it in preparation for its eventual use. :)
-
-</br>
 
 ## How?
 
@@ -27,9 +28,10 @@ The process of learning, practicing, practicing again, and testing it in prepara
 
 </br>
 
-## Reference
+## Reference and Credit
 
-- https://www.youtube.com/watch?v=UzMr7-0FgA0&t=12s
+YouTube Channel: Smoljames
+https://www.youtube.com/watch?v=UzMr7-0FgA0&t=12s
 
 <hr />
 

@@ -4,7 +4,9 @@
 
 </br>
 Today's project:
+
 ## Full-stack CRUD app with Nextjs + Firebase (Auth & Firestore) + TailwindCSS 🧪
+
 <hr />
 
 # this.Project 📖

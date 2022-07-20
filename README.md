@@ -1,34 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Hi there! I'm Francis Kodama! 👋
 
-## Getting Started
+## WELCOME TO LAB SPACE | Full-stack CRUD app with Nextjs + Firebase (Auth & Firestore) + TailwindCSS 🧪
 
-First, run the development server:
+<hr />
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# this.Project 📖
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The idea here it's to learn Next.js + Firebase by building a full-stack CRUD app.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Why?
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+The process of learning, practicing, practicing again, and testing it in preparation for its eventual use. :)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+</br>
 
-## Learn More
+## How?
 
-To learn more about Next.js, take a look at the following resources:
+- Next.js
+- Firebase V9 (Auth & Firestore)
+- Tailwind CSS
+- CSS
+- HTML
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+</br>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Reference
 
-## Deploy on Vercel
+- https://www.youtube.com/watch?v=UzMr7-0FgA0&t=12s
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<hr />
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# About Me 😎
+
+<br />
+
+🇧🇷 I’m a **Front-end Developer** with a strong understanding of industry trends, as well as of the entire web development process, including development, UX/UI design, product management, and client services.
+</br>
+</br>
+🚀 My mission is to create exciting projects that will inspire others and change their behavior in a positive way while providing me with new challenges so I never stop learning.
+</br>
+</br>
+
+<a href="https://www.fkodama.com/" target="_blank">
+<img align="left" width="196px" src="https://www.fkodama.com/_permanent/git/portfolio.svg"  />
+</a>
+
+</br>
+</br>
+
+<hr />
+
+### ⚡ Connect with me:
+
+<br />
+<a href="https://www.fkodama.com/" target="_blank">
+<img align="left" width="40px" src="https://www.fkodama.com/_permanent/git/website.svg"  />
+</a>
+
+<a href="https://www.linkedin.com/in/kodama/" target="_blank">
+  <img align="left" width="40px" src="https://www.fkodama.com/_permanent/git/linkedin.svg"  />
+</a>
+<a href="https://www.instagram.com" target="_blank">
+  <img align="left" width="40px" src="https://www.fkodama.com/_permanent/git/instagram.svg"  />
+</a>
+<a href="mailto:fk@fkodama.com">
+  <img align="left" width="43px" src="https://www.fkodama.com/_permanent/git/email.svg" />
+</a>
+
+</br>
+</br>
+
+<hr />

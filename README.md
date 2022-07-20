@@ -1,7 +1,10 @@
 ### Hi there! I'm Francis Kodama! 👋
 
-## WELCOME TO LAB SPACE | Full-stack CRUD app with Nextjs + Firebase (Auth & Firestore) + TailwindCSS 🧪
+## WELCOME TO MY LAB SPACE
 
+</br>
+Today's project:
+## Full-stack CRUD app with Nextjs + Firebase (Auth & Firestore) + TailwindCSS 🧪
 <hr />
 
 # this.Project 📖

@@ -3,15 +3,13 @@
 ## WELCOME TO MY LAB SPACE
 
 </br>
-Today's project:
+Today's project 📖
 
 ## Full-stack CRUD app with Nextjs + Firebase (Auth & Firestore) + TailwindCSS 🧪
 
-<hr />
-
-# this.Project 📖
-
 The idea here it's to learn Next.js + Firebase by building a full-stack CRUD app.
+
+<hr />
 
 ## Why?
 

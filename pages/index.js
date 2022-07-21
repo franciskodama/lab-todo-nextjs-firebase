@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import Login from '../components/Login'
 
 export default function Home() {
@@ -11,6 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Login />
+      <i className="fa-solid fa-dragon"></i>
     </div>
   )
 }

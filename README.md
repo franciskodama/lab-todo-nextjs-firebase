@@ -31,6 +31,7 @@ The process of learning, practicing, practicing again, and testing it in prepara
 ## Reference and Credit
 
 YouTube Channel: Smoljames
+</br>
 https://www.youtube.com/watch?v=UzMr7-0FgA0&t=12s
 
 <hr />

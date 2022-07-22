@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { useAuth } from '../context/AuthContext'
 
 const Login = () => {
   
@@ -7,10 +8,15 @@ const Login = () => {
   const [ error, setError ] = useState(null)
   const [ isLoggingIn, setIsLoggingIn ] = useState(true)
   
+  const { login, signup } = useAuth()
+
   const submitHandler = () => {
     if (!email || !password) { 
       setError('Please enter email and password')
       return
+    }
+    if (isLoggingIn) {
+      return Login(email, password)
     }
   }
 

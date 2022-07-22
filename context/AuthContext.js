@@ -13,7 +13,6 @@ export const useAuth = () => {
 export const AuthProvider = ({children}) => {
     const [ currentUser, setCurrentUser ] = useState('')
     const [ loading, setLoading ] = useState(true)
-    // const [ error, setError ] = useState(null)
 
     const userInfo = useRef()
 

@@ -1,4 +1,5 @@
 import Layout from '../components/Layout'
+import { AuthProvider } from '../context/AuthContext';
 import '../styles/globals.css'
 
 // import Font Awesome CSS
@@ -9,9 +10,12 @@ config.autoAddCss = false; // Tell Font Awesome to skip adding the CSS automatic
 
 function MyApp({ Component, pageProps }) {
   return (
-    <Layout>
-      <Component {...pageProps} />
-    </Layout>)
+    <AuthProvider>
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
+    </AuthProvider>
+  )
 }
 
 export default MyApp
